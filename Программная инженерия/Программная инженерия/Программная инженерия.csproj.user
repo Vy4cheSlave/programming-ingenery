@@ -79,5 +79,11 @@
     <Compile Update="Lab4\WinTimer2.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="Laba5StartForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TestStandartDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
   </ItemGroup>
 </Project>
