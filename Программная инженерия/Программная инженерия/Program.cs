@@ -11,7 +11,7 @@ namespace Программная_инженерия
             // To customize application configuration such as set high DPI settings or default font,
             // see https://aka.ms/applicationconfiguration.
             ApplicationConfiguration.Initialize();
-            Application.Run(new Laba5StartForm());
+            Application.Run(new Laba6StartForm());
         }
     }
 }
