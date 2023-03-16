@@ -94,5 +94,26 @@
     <Compile Update="Lab6\WinPrint.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="Lab7\Laba7StartForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Lab7\WinAsynchDelegate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Lab7\WinAsynchMethod.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Lab7\WinBackgroundWorker.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Lab8\Laba8StartForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Lab8\WinLanguage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Main.cs">
+      <SubType>Form</SubType>
+    </Compile>
   </ItemGroup>
 </Project>

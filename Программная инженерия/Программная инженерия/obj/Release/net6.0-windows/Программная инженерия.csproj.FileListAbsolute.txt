@@ -1,0 +1,78 @@
+C:\Users\ADMIN\Desktop\Программная инженерия\Программная инженерия\Программная инженерия\bin\Release\net6.0-windows\Программная инженерия.exe
+C:\Users\ADMIN\Desktop\Программная инженерия\Программная инженерия\Программная инженерия\bin\Release\net6.0-windows\Программная инженерия.deps.json
+C:\Users\ADMIN\Desktop\Программная инженерия\Программная инженерия\Программная инженерия\bin\Release\net6.0-windows\Программная инженерия.runtimeconfig.json
+C:\Users\ADMIN\Desktop\Программная инженерия\Программная инженерия\Программная инженерия\bin\Release\net6.0-windows\Программная инженерия.dll
+C:\Users\ADMIN\Desktop\Программная инженерия\Программная инженерия\Программная инженерия\bin\Release\net6.0-windows\Программная инженерия.pdb
+C:\Users\ADMIN\Desktop\Программная инженерия\Программная инженерия\Программная инженерия\bin\Release\net6.0-windows\cs\Программная инженерия.resources.dll
+C:\Users\ADMIN\Desktop\Программная инженерия\Программная инженерия\Программная инженерия\bin\Release\net6.0-windows\brx\Программная инженерия.resources.dll
+C:\Users\ADMIN\Desktop\Программная инженерия\Программная инженерия\Программная инженерия\bin\Release\net6.0-windows\en-GB\Программная инженерия.resources.dll
+C:\Users\ADMIN\Desktop\Программная инженерия\Программная инженерия\Программная инженерия\bin\Release\net6.0-windows\en\Программная инженерия.resources.dll
+C:\Users\ADMIN\Desktop\Программная инженерия\Программная инженерия\Программная инженерия\bin\Release\net6.0-windows\my-MM\Программная инженерия.resources.dll
+C:\Users\ADMIN\Desktop\Программная инженерия\Программная инженерия\Программная инженерия\bin\Release\net6.0-windows\my\Программная инженерия.resources.dll
+C:\Users\ADMIN\Desktop\Программная инженерия\Программная инженерия\Программная инженерия\bin\Release\net6.0-windows\ru-RU\Программная инженерия.resources.dll
+C:\Users\ADMIN\Desktop\Программная инженерия\Программная инженерия\Программная инженерия\bin\Release\net6.0-windows\Microsoft.Data.Tools.Schema.Sql.UnitTesting.dll
+C:\Users\ADMIN\Desktop\Программная инженерия\Программная инженерия\Программная инженерия\bin\Release\net6.0-windows\Microsoft.Data.Tools.Schema.Sql.UnitTestingAdapter.dll
+C:\Users\ADMIN\Desktop\Программная инженерия\Программная инженерия\Программная инженерия\bin\Release\net6.0-windows\ru\Microsoft.Data.Tools.Schema.Sql.UnitTesting.resources.dll
+C:\Users\ADMIN\Desktop\Программная инженерия\Программная инженерия\Программная инженерия\obj\Release\net6.0-windows\Программная инженерия.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\Программная инженерия\Программная инженерия\Программная инженерия\obj\Release\net6.0-windows\Программная_инженерия.Form1.resources
+C:\Users\ADMIN\Desktop\Программная инженерия\Программная инженерия\Программная инженерия\obj\Release\net6.0-windows\Программная_инженерия.Form2.resources
+C:\Users\ADMIN\Desktop\Программная инженерия\Программная инженерия\Программная инженерия\obj\Release\net6.0-windows\Программная_инженерия.ChildForm.resources
+C:\Users\ADMIN\Desktop\Программная инженерия\Программная инженерия\Программная инженерия\obj\Release\net6.0-windows\Программная_инженерия.Form3.resources
+C:\Users\ADMIN\Desktop\Программная инженерия\Программная инженерия\Программная инженерия\obj\Release\net6.0-windows\Программная_инженерия.Form4.resources
+C:\Users\ADMIN\Desktop\Программная инженерия\Программная инженерия\Программная инженерия\obj\Release\net6.0-windows\Программная_инженерия.Form5.resources
+C:\Users\ADMIN\Desktop\Программная инженерия\Программная инженерия\Программная инженерия\obj\Release\net6.0-windows\Программная_инженерия.Form6.resources
+C:\Users\ADMIN\Desktop\Программная инженерия\Программная инженерия\Программная инженерия\obj\Release\net6.0-windows\Программная_инженерия.Form7.resources
+C:\Users\ADMIN\Desktop\Программная инженерия\Программная инженерия\Программная инженерия\obj\Release\net6.0-windows\Программная_инженерия.Laba2SttartForm.resources
+C:\Users\ADMIN\Desktop\Программная инженерия\Программная инженерия\Программная инженерия\obj\Release\net6.0-windows\Программная_инженерия.MdiAplication.resources
+C:\Users\ADMIN\Desktop\Программная инженерия\Программная инженерия\Программная инженерия\obj\Release\net6.0-windows\Программная_инженерия.nForm.resources
+C:\Users\ADMIN\Desktop\Программная инженерия\Программная инженерия\Программная инженерия\obj\Release\net6.0-windows\Программная_инженерия.Lab3Task3.resources
+C:\Users\ADMIN\Desktop\Программная инженерия\Программная инженерия\Программная инженерия\obj\Release\net6.0-windows\Программная_инженерия.Laba3StartForm.resources
+C:\Users\ADMIN\Desktop\Программная инженерия\Программная инженерия\Программная инженерия\obj\Release\net6.0-windows\Программная_инженерия.RegistrationForm.resources
+C:\Users\ADMIN\Desktop\Программная инженерия\Программная инженерия\Программная инженерия\obj\Release\net6.0-windows\Программная_инженерия.TestList.resources
+C:\Users\ADMIN\Desktop\Программная инженерия\Программная инженерия\Программная инженерия\obj\Release\net6.0-windows\Программная_инженерия.WinContainer.resources
+C:\Users\ADMIN\Desktop\Программная инженерия\Программная инженерия\Программная инженерия\obj\Release\net6.0-windows\Программная_инженерия.WinLinkLabel.resources
+C:\Users\ADMIN\Desktop\Программная инженерия\Программная инженерия\Программная инженерия\obj\Release\net6.0-windows\Программная_инженерия.WinLinkLabelForm2.resources
+C:\Users\ADMIN\Desktop\Программная инженерия\Программная инженерия\Программная инженерия\obj\Release\net6.0-windows\Программная_инженерия.WinQuestion.resources
+C:\Users\ADMIN\Desktop\Программная инженерия\Программная инженерия\Программная инженерия\obj\Release\net6.0-windows\Программная_инженерия.Laba4StartForm.resources
+C:\Users\ADMIN\Desktop\Программная инженерия\Программная инженерия\Программная инженерия\obj\Release\net6.0-windows\Программная_инженерия.UserController.UserControlTimer.resources
+C:\Users\ADMIN\Desktop\Программная инженерия\Программная инженерия\Программная инженерия\obj\Release\net6.0-windows\Программная_инженерия.UserController.UserControlTimer2.resources
+C:\Users\ADMIN\Desktop\Программная инженерия\Программная инженерия\Программная инженерия\obj\Release\net6.0-windows\Программная_инженерия.WinButNum.resources
+C:\Users\ADMIN\Desktop\Программная инженерия\Программная инженерия\Программная инженерия\obj\Release\net6.0-windows\Программная_инженерия.WinTimer1.resources
+C:\Users\ADMIN\Desktop\Программная инженерия\Программная инженерия\Программная инженерия\obj\Release\net6.0-windows\Программная_инженерия.WinTimer2.resources
+C:\Users\ADMIN\Desktop\Программная инженерия\Программная инженерия\Программная инженерия\obj\Release\net6.0-windows\Программная_инженерия.Laba5StartForm.resources
+C:\Users\ADMIN\Desktop\Программная инженерия\Программная инженерия\Программная инженерия\obj\Release\net6.0-windows\Программная_инженерия.TestStandartDialog.resources
+C:\Users\ADMIN\Desktop\Программная инженерия\Программная инженерия\Программная инженерия\obj\Release\net6.0-windows\Программная_инженерия.Laba6Task3Form.resources
+C:\Users\ADMIN\Desktop\Программная инженерия\Программная инженерия\Программная инженерия\obj\Release\net6.0-windows\Программная_инженерия.WinPrint.resources
+C:\Users\ADMIN\Desktop\Программная инженерия\Программная инженерия\Программная инженерия\obj\Release\net6.0-windows\Программная_инженерия.Laba7StartForm.resources
+C:\Users\ADMIN\Desktop\Программная инженерия\Программная инженерия\Программная инженерия\obj\Release\net6.0-windows\Программная_инженерия.WinAsynchDelegate.resources
+C:\Users\ADMIN\Desktop\Программная инженерия\Программная инженерия\Программная инженерия\obj\Release\net6.0-windows\Программная_инженерия.WinAsynchMethod.resources
+C:\Users\ADMIN\Desktop\Программная инженерия\Программная инженерия\Программная инженерия\obj\Release\net6.0-windows\Программная_инженерия.WinBackgroundWorker.resources
+C:\Users\ADMIN\Desktop\Программная инженерия\Программная инженерия\Программная инженерия\obj\Release\net6.0-windows\Программная_инженерия.Laba8StartForm.resources
+C:\Users\ADMIN\Desktop\Программная инженерия\Программная инженерия\Программная инженерия\obj\Release\net6.0-windows\Программная_инженерия.WinLanguage.resources
+C:\Users\ADMIN\Desktop\Программная инженерия\Программная инженерия\Программная инженерия\obj\Release\net6.0-windows\Программная_инженерия.Main.resources
+C:\Users\ADMIN\Desktop\Программная инженерия\Программная инженерия\Программная инженерия\obj\Release\net6.0-windows\Программная_инженерия.Properties.Resources.resources
+C:\Users\ADMIN\Desktop\Программная инженерия\Программная инженерия\Программная инженерия\obj\Release\net6.0-windows\Программная_инженерия.Lab6.Laba6StartForm.cs.resources
+C:\Users\ADMIN\Desktop\Программная инженерия\Программная инженерия\Программная инженерия\obj\Release\net6.0-windows\Программная_инженерия.WinLanguage.brx.resources
+C:\Users\ADMIN\Desktop\Программная инженерия\Программная инженерия\Программная инженерия\obj\Release\net6.0-windows\Программная_инженерия.WinLanguage.en-GB.resources
+C:\Users\ADMIN\Desktop\Программная инженерия\Программная инженерия\Программная инженерия\obj\Release\net6.0-windows\Программная_инженерия.WinLanguage.en.resources
+C:\Users\ADMIN\Desktop\Программная инженерия\Программная инженерия\Программная инженерия\obj\Release\net6.0-windows\Программная_инженерия.WinLanguage.my-MM.resources
+C:\Users\ADMIN\Desktop\Программная инженерия\Программная инженерия\Программная инженерия\obj\Release\net6.0-windows\Программная_инженерия.WinLanguage.my.resources
+C:\Users\ADMIN\Desktop\Программная инженерия\Программная инженерия\Программная инженерия\obj\Release\net6.0-windows\Программная_инженерия.WinLanguage.ru-RU.resources
+C:\Users\ADMIN\Desktop\Программная инженерия\Программная инженерия\Программная инженерия\obj\Release\net6.0-windows\Программная инженерия.csproj.GenerateResource.cache
+C:\Users\ADMIN\Desktop\Программная инженерия\Программная инженерия\Программная инженерия\obj\Release\net6.0-windows\Программная инженерия.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Desktop\Программная инженерия\Программная инженерия\Программная инженерия\obj\Release\net6.0-windows\Программная инженерия.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\Программная инженерия\Программная инженерия\Программная инженерия\obj\Release\net6.0-windows\Программная инженерия.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\Программная инженерия\Программная инженерия\Программная инженерия\obj\Release\net6.0-windows\Программная инженерия.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\Программная инженерия\Программная инженерия\Программная инженерия\obj\Release\net6.0-windows\cs\Программная инженерия.resources.dll
+C:\Users\ADMIN\Desktop\Программная инженерия\Программная инженерия\Программная инженерия\obj\Release\net6.0-windows\brx\Программная инженерия.resources.dll
+C:\Users\ADMIN\Desktop\Программная инженерия\Программная инженерия\Программная инженерия\obj\Release\net6.0-windows\en-GB\Программная инженерия.resources.dll
+C:\Users\ADMIN\Desktop\Программная инженерия\Программная инженерия\Программная инженерия\obj\Release\net6.0-windows\en\Программная инженерия.resources.dll
+C:\Users\ADMIN\Desktop\Программная инженерия\Программная инженерия\Программная инженерия\obj\Release\net6.0-windows\my-MM\Программная инженерия.resources.dll
+C:\Users\ADMIN\Desktop\Программная инженерия\Программная инженерия\Программная инженерия\obj\Release\net6.0-windows\my\Программная инженерия.resources.dll
+C:\Users\ADMIN\Desktop\Программная инженерия\Программная инженерия\Программная инженерия\obj\Release\net6.0-windows\ru-RU\Программная инженерия.resources.dll
+C:\Users\ADMIN\Desktop\Программная инженерия\Программная инженерия\Программная инженерия\obj\Release\net6.0-windows\Программная инженерия.csproj.CopyComplete
+C:\Users\ADMIN\Desktop\Программная инженерия\Программная инженерия\Программная инженерия\obj\Release\net6.0-windows\Программная инженерия.dll
+C:\Users\ADMIN\Desktop\Программная инженерия\Программная инженерия\Программная инженерия\obj\Release\net6.0-windows\refint\Программная инженерия.dll
+C:\Users\ADMIN\Desktop\Программная инженерия\Программная инженерия\Программная инженерия\obj\Release\net6.0-windows\Программная инженерия.pdb
+C:\Users\ADMIN\Desktop\Программная инженерия\Программная инженерия\Программная инженерия\obj\Release\net6.0-windows\Программная инженерия.genruntimeconfig.cache
+C:\Users\ADMIN\Desktop\Программная инженерия\Программная инженерия\Программная инженерия\obj\Release\net6.0-windows\ref\Программная инженерия.dll
